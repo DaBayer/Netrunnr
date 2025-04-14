@@ -23,20 +23,20 @@ Every server/personal computer will have their own set of default files. It is u
         - Programs
         - HP
     - **ICE Reaction Profiles**: Assign behavior templates to ICE, such as "Aggressive," "Stealthy," or "Targeted," to diversify system defenses.
-- It will then ask the creator if you want to make custom file locations to hide different documents within public or hidden files (designated by a “.” before the name, will be hidden until the user is granted Root access).
+- It will then ask the creator if you want to make custom file locations to hide different documents within public or hidden files (designated by a “.” before the name). Hidden files will not display until the user is granted Root access.
     - **Honeyfiles**: Option to add fake files designed to lure netrunners; accessing them triggers alerts or activates ICE.
     - **File and Folder Security Levels**: Assign security levels (Low, Medium, High) to files and folders, affecting access difficulty and required decryption efforts.
     - **Encrypted Drives or Partitions**: Designate certain areas as encrypted, requiring separate decryption keys or methods to access.
-    - **Log File System**: Implement logging mechanisms that track netrunner activities; failure to manage logs can lead to detection.
+    - **Log File System**: Implement logging mechanisms that track Netrunner activities; failure to manage logs can lead to detection.
     - **Offline Storage Devices**: Include data stored on external devices that must be retrieved in meatspace.
-    - **NPC Digital Assistants / AI Custodians**: Introduce virtual entities that interact with netrunners, requiring social engineering or technical bypassing.
+    - **NPC Digital Assistants / AI Custodians**: Introduce virtual entities interacting with netrunners, requiring social engineering or technical bypassing.
     - **Manual Override Nodes**: Create nodes that necessitate real-world physical actions or coordination with team members in meat space to access.
     - **Node Dependency Chains**: Establish dependencies between nodes, requiring specific access sequences to progress through the network.
 - Additional features to enhance the network architecture:
     - **Timed Scripts / Auto-Triggers**: Implement timers that activate specific events (e.g., ICE deployment, data wipes) upon certain triggers or after set durations.
     - **Redundant Nodes / Dead Ends**: Include decoy nodes that mimic legitimate structures but serve no functional purpose, adding complexity to network navigation.
     - **Environment Tags**: Label systems with tags like "Corporate," "Criminal," or "Public Access," influencing default security configurations and file structures.
-    - **Network Type Selector**: Specify network types (e.g., LAN, WAN, Air-Gapped), affecting available commands and access methods.
+    - **Network Type Selector**: Specify network types (e.g., LAN, WAN, Air-Gapped) to affect available commands and access methods.
     - **Security Patches / Update Cycles**: Simulate system updates that can alter security measures over time, impacting netrunner strategies.
     - **System Clock Manipulation**: Allow netrunners to alter system time, potentially affecting timers, logs, and scheduled events.
 
@@ -44,7 +44,7 @@ Every server/personal computer will have their own set of default files. It is u
 
 ## Net Runner Companion
 
-A terminal-based tool designed for players to engage in netrunning within Cyberpunk RED, adapted for a desktop environment. This companion emphasizes player skill, strategic decision-making, and immersive hacking experiences, while maintaining the core elements that make netrunning enjoyable.
+A terminal-based tool designed for players to engage in Netrunning within Cyberpunk RED, adapted for a desktop environment. This companion emphasizes player skill, strategic decision-making, and immersive hacking experiences while maintaining the core elements that make Netrunning enjoyable.
 
 ## How does it work?
 
